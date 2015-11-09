@@ -27,10 +27,22 @@ a
 {
     display: block;
     font-size: .8em;
+    text-decoration: none;
+}
+
+a:hover
+{
+ text-decoration: underline;
+ font-weight: bold;
 }
 
 footer
 {
     font-size: .7em;
-    margin:100px 300px 300px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 80px;
 }
