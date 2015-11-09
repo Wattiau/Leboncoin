@@ -16,16 +16,21 @@ h1
     margin-left: 350px;
 }
 
+aside
+{
+    float:right;
+    margin-top: -350px;
+    margin-right: 300px;
+}
+
 a
 {
-    margin-left: 800px;
-    display: inline;
-    margin-top: -80px;
+    display: block;
+    font-size: .8em;
 }
 
 footer
 {
-    margin-left: 300px;
-    margin-right: 300px;
     font-size: .7em;
+    margin:100px 300px 300px;
 }
